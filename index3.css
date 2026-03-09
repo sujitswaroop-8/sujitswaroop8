@@ -1,0 +1,58 @@
+@font-face {
+  font-family: sujit;
+  src: url("./fonts/PirataOne-Regular.ttf");
+}
+
+body{
+  font-family: sujit;
+  font-size: 40px;
+}
+
+* {
+  font-family: sujit;
+  
+}
+
+
+h1 {
+  color:blue;
+  text-align: center;
+  background-color: red;
+}
+
+
+p.p {
+  font-size: 30px;
+  color:red;
+  list-style-position: inside;
+  text-align: center;
+  font-family: sujit;
+}
+p.c {
+  font-size: 30px;
+  color:yellow;
+  list-style-position: inside;
+  text-align: center;
+  font-family: sujit;
+}
+p.cpp {
+  font-size: 30px;
+  color:palevioletred;
+  list-style-position: inside;
+  text-align: center;
+  font-family: sujit;
+}
+p.j {
+  font-size: 30px;
+  color:coral;
+  list-style-position: inside;
+  text-align: center;
+  font-family: sujit;
+}
+p.h {
+  font-size: 30px;
+  color:chartreuse;
+  list-style-position: inside;
+  text-align: center;
+  font-family: sujit;}
+    
